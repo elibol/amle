@@ -1,0 +1,2 @@
+git+git://github.com/mfeurer/liac-arff@master
+git+git://github.com/elibol/openml-python@develop

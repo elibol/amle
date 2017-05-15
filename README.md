@@ -14,5 +14,5 @@ Please notify us of any missing dependencies in different environments.
 # Run Auto-SKLearn Experiment
 
 1. `python scripts/run_all_dids.py`
-2. with default values in `amle/settings.py`, results will be written to `tmp/{did}_results.json`, where
-   `{did}` corresponds to an openml dataset id.
+2. Results will be written to the directory `{results_dir}` specified as parameter `-d` in `run_all_dids.py`. See `scripts/asklearn.py` for parameter descriptions.
+3. Generate prediction results by running `python scripts/process_results.py {results_dir}`

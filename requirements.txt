@@ -4,4 +4,3 @@ numpy>=1.9.0
 scipy>=0.14.1
 scikit-learn==0.17.1
 pandas
-auto-sklearn==0.1.0

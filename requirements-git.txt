@@ -1,2 +1,3 @@
 git+git://github.com/mfeurer/liac-arff@master
 git+git://github.com/elibol/openml-python@develop
+git+git://github.com/elibol/auto-sklearn@paper_version
